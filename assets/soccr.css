@@ -1,0 +1,15 @@
+.soccr_match_widget {
+    border: 1px solid red;
+    margin-right: auto;
+    margin-left: auto;
+}
+.soccr_match_widget td, th {
+    border: none;
+}
+
+.soccr_match_widget img
+{
+    border: none;
+}
+
+
